@@ -1,0 +1,12 @@
+My $KEEP
+town $KEEP
+is $KEEP
+a $KEEP
+medium $APPEND_-
+size $TRANSFORM_VERB_VB_VBN
+city $KEEP
+with $KEEP
+eighty $KEEP
+thousand $KEEP
+inhabitants $KEEP
+. $KEEP
